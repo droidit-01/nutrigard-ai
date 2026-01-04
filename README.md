@@ -15,7 +15,7 @@ NutriGuard AI uses Snowflake Data Cloud, Snowpark, and Cortex AI to analyze heal
 ![Process Flow](architecture/process_flow.png)
 
 ## 👥 Use Case Diagram
-![Use Case](architecture/use_case_diagram.png)
+![Use Case](architecture/usecase.png)
 
 ## 🛠️ Tech Stack
 - Snowflake Data Cloud

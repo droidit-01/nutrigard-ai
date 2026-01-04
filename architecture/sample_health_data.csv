@@ -1,0 +1,10 @@
+record_id,person_type,age,gender,height_cm,weight_kg,bmi,diet_score,immunization_status,risk_score,risk_level,district,state
+C1001,Child,3,M,85,10.2,14.1,2,Partial,92,High,Surat,Gujarat
+C1002,Child,4,F,92,12.0,14.2,3,Yes,68,Medium,Ahmedabad,Gujarat
+C1003,Child,2,F,78,9.1,15.0,1,No,85,High,Vadodara,Gujarat
+C1004,Child,5,M,104,16.5,15.2,4,Yes,45,Low,Rajkot,Gujarat
+P2001,Pregnant,26,F,160,48.0,18.8,3,Yes,88,High,Surat,Gujarat
+P2002,Pregnant,30,F,158,52.0,20.8,4,Yes,54,Medium,Bharuch,Gujarat
+P2003,Pregnant,24,F,162,45.5,17.3,2,Partial,79,Medium,Anand,Gujarat
+C1005,Child,1,M,72,8.0,15.4,1,No,90,High,Narmada,Gujarat
+C1006,Child,6,F,110,18.0,14.9,5,Yes,38,Low,Mehsana,Gujarat

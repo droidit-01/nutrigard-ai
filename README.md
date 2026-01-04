@@ -34,7 +34,7 @@ NutriGuard AI uses Snowflake Data Cloud, Snowpark, and Cortex AI to analyze heal
 This project is a **prototype** built for the AI for Good Hackathon. Data used is simulated for demonstration purposes.
 
 ## 📹 Demo Video
-(Coming soon)
+https://youtu.be/nc1GMvF8cOM
 
 ## 👤 Author
 Jay Vekariya

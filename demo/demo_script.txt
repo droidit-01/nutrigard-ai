@@ -1,0 +1,48 @@
+NutriGuard AI – Demo Script
+AI for Good Hackathon | Snowflake
+
+----------------------------------------
+1. Introduction (0:00 – 0:20)
+----------------------------------------
+Hello, my name is Jay Vekariya.
+Today, I’m presenting NutriGuard AI — an AI-powered platform built on Snowflake to enable early detection of malnutrition and health risks among children and pregnant women.
+
+----------------------------------------
+2. Problem Statement (0:20 – 0:45)
+----------------------------------------
+Malnutrition is often detected too late due to fragmented data, manual monitoring, and lack of predictive insights.
+As a result, preventable health complications continue to impact vulnerable communities.
+
+----------------------------------------
+3. Solution Overview (0:45 – 1:15)
+----------------------------------------
+NutriGuard AI centralizes health and nutrition data on Snowflake and uses AI-powered analytics to identify high-risk individuals early.
+This enables NGOs and health authorities to take timely, targeted action.
+
+----------------------------------------
+4. Architecture & Snowflake Usage (1:15 – 1:45)
+----------------------------------------
+Data from Anganwadi centers and surveys is securely ingested into Snowflake Data Cloud.
+Using Snowpark and Snowflake Cortex, the system analyzes growth and nutrition patterns and generates risk scores.
+These insights are made available through interactive dashboards.
+
+----------------------------------------
+5. Live Prototype Walkthrough (1:45 – 2:30)
+----------------------------------------
+This dashboard shows:
+- Total children and pregnant women monitored
+- High-risk cases requiring immediate attention
+- Risk distribution across regions
+
+Authorities can quickly identify where intervention is most needed.
+
+----------------------------------------
+6. Impact & Value (2:30 – 2:50)
+----------------------------------------
+By enabling early detection, NutriGuard AI can reduce preventable health risks, optimize resource allocation, and improve public health outcomes at scale.
+
+----------------------------------------
+7. Closing (2:50 – 3:00)
+----------------------------------------
+NutriGuard AI demonstrates how AI and data on Snowflake can be a powerful force for social good.
+Thank you.
